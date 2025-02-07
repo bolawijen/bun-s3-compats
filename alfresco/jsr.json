@@ -1,0 +1,6 @@
+{
+  "name": "@bun-s3-compats/alfresco",
+  "version": "1.0.3",
+  "license": "MIT",
+  "exports": "./index.ts"
+}
